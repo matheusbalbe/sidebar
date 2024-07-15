@@ -30,15 +30,20 @@
       <div class="sidebar">
         <span id="initial-icons">
           <img class="logo" src="assets/logo.svg" alt="" />
-          <button id="btnMenu"><img src="assets/menu.svg"/></button>
+          <button id="btnMenu"><img src="assets/menu.svg" /></button>
         </span>
         <span id="list-bar">
           <div id="buscador">
             <form action="#" method="get" id="busca">
-              <button class="search-box-button">
+              <button type="submit" class="search-box-button">
                 <img src="assets/search.svg" />
               </button>
-              <input type="text" id="pesquisa" name="q" placeholder="Buscar" />
+              <input
+                type="text"
+                id="inputDePesquisa"
+                name="q"
+                placeholder="Buscar"
+              />
             </form>
           </div>
           <button class="btn">
@@ -58,7 +63,7 @@
             <span class="btnTexto">Vets</span>
           </button>
           <button class="btn">
-            <img class="btn-img" src="assets/settings.svg" />  
+            <img class="btn-img" src="assets/settings.svg" />
             <span class="btnTexto">Ajustes</span>
           </button>
         </span>
@@ -68,11 +73,11 @@
               src="https://desafios-discover.vercel.app/DesafioSideBar/images/photo.jpg"
               alt="Foto de perfil"
             />
-          
-          <div class="name_job">
-            <div class="name">Josefina</div>
-            <div class="job">Veterinária</div>
-          </div>
+
+            <div class="name_job">
+              <div class="name">Josefina</div>
+              <div class="job">Veterinária</div>
+            </div>
           </div>
           <div id="logo-sair">
             <img
