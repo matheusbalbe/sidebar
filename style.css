@@ -36,7 +36,7 @@ h1 {
   display: flex;
   justify-content: space-between;
   margin-right: 25px;
-  margin-left: 1.75rem;
+  margin-left: 1.85rem;
   padding-top: 20px;
 }
 #logo {
@@ -64,7 +64,7 @@ h1 {
   font-size: 16px; /* Set a font size */
   cursor: pointer; /* Mouse pointer on hover */
   border-radius: 12px;
-  margin: 5px .8rem;
+  margin: 5px 1rem;
   width: 12rem;
   height: 25px;
   display: flex;
@@ -116,7 +116,7 @@ h1 {
   font-size: 16px; /* Set a font size */
   cursor: pointer; /* Mouse pointer on hover */
   border-radius: 12px;
-  margin: 5px .8rem;
+  margin: 5px 1rem;
   width: 14rem;
   height: 50.917px;
   text-align: left;
