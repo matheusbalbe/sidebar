@@ -1,6 +1,6 @@
 <h1 align="center"> Sidebar </h1>
 
-<p align="center">O projeto consiste em uma "sidebar" como na imagem abaixo. Quando o usuário clica no ícone do menu, o estado da sidebar muda entre "aberto", mostrando ícones e texto e "fechado", mostrando apenas os ícones.
+<p align="center">O projeto consiste em uma barra lateral, como na imagem abaixo. Quando o usuário clica no ícone do menu, o estado da sidebar muda entre "aberto", mostrando ícones e texto e "fechado", mostrando apenas os ícones.
 
 <p align="center">
 Aberta
