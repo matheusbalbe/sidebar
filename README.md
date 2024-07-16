@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-- [Acesse o projeto finalizado, online](https://matheusbalbe.github.io/sidebar)
+- [Veja aqui o projeto finalizado](https://matheusbalbe.github.io/sidebar)
 
 ---
 
